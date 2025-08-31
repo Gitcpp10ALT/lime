@@ -1,9 +1,7 @@
 # lime
 Lime is a simple reverse shell, that uses the Python Library pywinpty. It has full interactive shell.
 # Installation
-1. Download file "lime.exe".
-2. Copy file into a chosen path.
-3. Add that path to enviroment variables.
+Just download the zip, extract it and you are done!
 # Usage
 In command prompt.
 **For listener**
