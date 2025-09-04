@@ -12,3 +12,7 @@ lime listen -ip [ip address, if not specified listens on localhost] -p [port num
 ```
 lime connect -ip [ip of listener] -p [port number]
 ```
+**For connecting to a listener forever**
+```
+lime forever -ip [ip of listener] -p [port number]
+```
